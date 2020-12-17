@@ -1,3 +1,5 @@
+Models were trained with Google ColabPro
+
 Dataset:
 iMaterialist Challenge Furniture dataset from kaggle:
 - office chair, wood chair, counter basin
